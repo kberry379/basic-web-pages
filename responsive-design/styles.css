@@ -24,6 +24,9 @@
 
 .header {
     background-color: #b2d6ff;
+    height: auto;
+    justify-content: inherit;
+    align-items: inherit;
 }
 
 .content {
@@ -45,6 +48,16 @@
 
 .feature-3 {
     background-color: #c8c6fa;
+}
+
+.illustration img {
+    width: 100%;
+    display: block;
+}
+
+.photo img {
+    width: 100%;
+    display: block;
 }
 
 /* mobile styles */
